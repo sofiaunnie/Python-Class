@@ -1,0 +1,20 @@
+[Entertainment]
+label = "Entertainment"
+
+[[Entertainment.questions]]
+ question     = '''Which Artist(s) has had the most #1 hits on the American Music Billboard charts?
+(A)The Beatles
+(B) Elvis Presley
+(C) Enrique Iglesias
+(D) George Strait''']
+answers      = ["A"]
+
+[[Entertainment.questions]]
+question = ['''What movie does NOT have Brad Pitt in it? "
+"A. Oceans 13
+ B.Burn After Reading
+ C.300 
+ D.Troy '''
+answers = ['C']
+
+[[Entertainment.questions]]

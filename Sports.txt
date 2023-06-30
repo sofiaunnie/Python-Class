@@ -1,0 +1,47 @@
+[Sports]
+Category = "Sports"
+
+questions = '''Which NFL team has won the most Super Bowls? 
+A.Pittsburgh Steelers
+B. Dallas Cowboys
+C. San Fransico 49ers
+D.Green Bay Packers'''
+answer = ['A']
+
+questions = '''Who has the Highest Number of Gold Medals in Olympic History?"
+A. Larisa Latynina 
+B.Mark Spitz 
+C. Michael Phelps 
+D. Saina Nehwal'''
+answer = ['C']
+
+questions = '''Who won the FIFA World Cup in 2018? 
+A.France 
+B.Germany 
+C. Portugal 
+D. Uraguay '''
+answer = ['A']
+
+questions = '''What is the Full Name of the Famous Football Player Ronaldo?
+A. Cristiano Santos Ronaldo
+B. Cristiano Ronaldo Santos Aveiro
+C. Cristiano Ronaldo dos Santos Aveiro
+D. Cristiano dos Ronaldo '''
+
+answer = ['C']
+
+questions = '''What is the current World Record of Men’s High Jump in the Olympic Event?
+A. 5.45 m
+B. 4.45 m
+C. 3.45 m
+D. 2.45 m '''
+
+answer = ['D']
+
+questions = '''What is the Distance of the Marathon Race?
+A. 100 Km
+B. 52.195 Km
+C. 42.195 Km
+D. 10 Km '''
+
+answer = ['C']
